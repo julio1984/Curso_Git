@@ -1,2 +1,2 @@
-# Curso_Git
- Primeiro repositorio curso de git
+# Ola mundo !
+ Primeiro repositorio curso de git, criado no curso de git.
